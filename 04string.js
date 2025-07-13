@@ -27,3 +27,8 @@ console.log(trimexample.trimEnd());    // "   Hello World!"
 let nam = "Aryan-kumar-1st-year";
 console.log(nam.split('-'));            // ["Aryan", "kumar", "1st", "year"]
 console.log(nam.split('-').join(' '));  // "Aryan kumar 1st year"
+
+let arr = ["kndc","iohweiu","iugy"];
+
+let aa = arr.join(' ');
+console.log(aa); // arr to string 
