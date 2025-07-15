@@ -39,3 +39,5 @@ No keyword — becomes a global variable (not recommended!).
 
 
 */
+
+// read hoisting

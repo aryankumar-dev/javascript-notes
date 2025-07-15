@@ -58,7 +58,7 @@ console.log(realarr);
 
 console.log(Array.isArray("aryan")); // false
 
-console.log(Array.from("aryan")); // make this in array | [ 'a', 'r', 'y', 'a', 'n' ]
+console.log(Array.from("aryan")); // make this in array | [ 'a', 'r', 'y', 'a', 'n' ] of character 
 
 
 console.log(Array.from({name : "aryan"})); // intresting for intreview | []

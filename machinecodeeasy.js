@@ -2,7 +2,7 @@ console.log("1" + 2 +2); // "122" (String concatenation)
 console.log(1 + 2 + "1"); // "31" (Number addition then String concatenation)
 console.log(1 + 2 + 3); // 6 (All numbers added together)
 console.log(1 + "2" + 3); // "123" // "123" (String concatenation)
-console.log(1 + 2 - "1");
+console.log("1" - 2 + 1); // with - it work like math
 
 
 
