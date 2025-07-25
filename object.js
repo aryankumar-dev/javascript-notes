@@ -45,10 +45,10 @@ const obj = {
 }
 
 //
-const {name : iskaname } = obj; // obj destrusture 
-console.log(iskaname);
+// const {name : iskaname } = obj; // obj destrusture 
+// console.log(iskaname);
 
-// console.log(obj.name);
+console.log(obj.namse);
 // console.log(obj['full name']); // to acess key with  ' '
 // console.log(obj[mysymbol]);          // my secret key
 // console.log(typeof mysymbol);
